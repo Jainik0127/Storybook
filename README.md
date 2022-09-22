@@ -8,6 +8,24 @@ npx storybook init
 
 yarn add @storybook/cli --dev <br /> yarn sb init
 
+### `Add Somme Storybook Addons`
+
+#### `npm`
+
+npm i -D @chakra-ui/storybook-addon
+
+##### `Accessibility checks with a11y addon with npm`
+
+npm install @storybook/addon-a11y --save-dev
+
+#### `yarn`
+
+yarn add -D @chakra-ui/storybook-addon
+
+##### `Accessibility checks with a11y addon with yarn`
+
+yarn add --dev @storybook/addon-a11y
+
 ## Available Scripts
 
 In the project directory, you can run:
