@@ -5,7 +5,7 @@ const colors = {
   textColor: "#000000", // Black color for text
   silverColor: "#E1E1E1",
   glacierColor: "#86B7C0",
-  whimstay: {
+  storybook: {
     50: "#fffadc",
     100: "#fcefb1",
     200: "#f8e484",

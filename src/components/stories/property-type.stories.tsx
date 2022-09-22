@@ -21,5 +21,5 @@ Default.args = {
 
 export const PropertyNameLongText = Template.bind({})
 PropertyNameLongText.args = {
-  title: "Appartment or Condo Property Name using WhimStay",
+  title: "Appartment or Condo Property Name using",
 }
