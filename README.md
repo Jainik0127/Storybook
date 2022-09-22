@@ -1,9 +1,21 @@
-This project was bootstrapped with
-[Create React App](https://github.com/facebook/create-react-app).
+### `Storybook Packages Install`
+
+#### `npm`
+
+npx storybook init
+
+#### `yarn`
+
+yarn add @storybook/cli --dev <br /> yarn sb init
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn storybook`
+
+Runs the app in the development mode.<br />Open
+[http://localhost:6006](http://localhost:6006) to view it in the browser.
 
 ### `yarn start`
 
@@ -52,6 +64,9 @@ feature. However we understand that this tool wouldn’t be useful if you couldn
 customize it when you are ready for it.
 
 ## Learn More
+
+You can learn more in the [Chakra-ui](https://chakra-ui.com/) and
+[Storybook](https://storybook.js.org/).
 
 You can learn more in the
 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
