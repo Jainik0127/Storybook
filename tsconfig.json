@@ -22,7 +22,9 @@
       "components/*": ["components/*"],
       "layouts/*": ["layouts/*"],
       "pages/*": ["pages/*"],
-      "theme/*": ["theme/*"]
+      "theme/*": ["theme/*"],
+      "assets/*": ["assets/*"],
+      "configs/*": ["configs/*"]
     }
   },
   "include": ["src", "jest.config.js"],

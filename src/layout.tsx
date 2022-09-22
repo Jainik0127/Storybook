@@ -1,7 +1,6 @@
 import React from "react"
+import Property from "./pages"
 
-const Layout = () => {
-  return <div>Jainik</div>
-}
+const Layout = () => <Property />
 
 export default Layout
